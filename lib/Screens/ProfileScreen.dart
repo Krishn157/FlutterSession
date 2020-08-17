@@ -22,12 +22,12 @@ class ProfileScreen extends StatelessWidget {
               //   height: 300.0,
               // ),
               CircleAvatar(
-                backgroundImage: AssetImage('images/krishn.jpg'),
+                backgroundImage: AssetImage('assets/images/person.png'),
                 radius: 130,
               ),
               SizedBox(height: 40),
               Text(
-                "Krishn Kumar",
+                "Your Name",
                 style: TextStyle(
                   fontSize: 30,
                   color: Theme.of(context).primaryColor,

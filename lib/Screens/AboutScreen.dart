@@ -46,7 +46,7 @@ class AboutScreen extends StatelessWidget {
                 ),
                 Chip(
                   label: Text(
-                    "krishn_157",
+                    "person_157",
                     style: TextStyle(fontSize: 15),
                   ),
                   avatar: Icon(Icons.supervisor_account),
@@ -63,7 +63,7 @@ class AboutScreen extends StatelessWidget {
                 ),
                 Chip(
                   label: Text(
-                    "krishn_157",
+                    "personn_157",
                     style: TextStyle(fontSize: 15),
                   ),
                   avatar: Icon(Icons.camera_enhance),
